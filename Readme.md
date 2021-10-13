@@ -8,4 +8,6 @@ In der `draw()`-Schleife sollen nun alle Kreise mit der ihnen entsprechenden Ges
 
 In der folgenden GIF-Animation ist das Ergebnis zu sehen:
 
-![Circle Rain](docs/circlerain.gif)
+| Die fallenden Kreise |
+|:------:|
+| ![Circle Rain](./docs/circlerain.gif) |
